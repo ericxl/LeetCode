@@ -1,7 +1,31 @@
 cmake_minimum_required(VERSION 3.9)
-project(LeetCode)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(LeetCode
-        src/001_TwoSum/Solution.cpp src/028_StrStr/Solution.cpp inc/leetcode.h src/048_RotateImage/Solution.cpp src/151_ReverseWordsInAString/Solution.cpp src/165_CompareVersionNumbers/Solution.cpp src/221_MaximalSquare/Solution.cpp src/257_BinaryTreePaths/Solution.cpp src/565_ArrayNesting/Solution.cpp)
+project(Leetcode)
+
+include_directories("inc")
+
+add_executable(001
+        src/001_TwoSum/Solution.cpp)
+
+add_executable(028
+        src/028_StrStr/Solution.cpp)
+
+add_executable(048
+        src/048_RotateImage/Solution.cpp)
+
+add_executable(151
+        src/151_ReverseWordsInAString/Solution.cpp)
+
+add_executable(165
+        src/165_CompareVersionNumbers/Solution.cpp)
+
+add_executable(221
+        src/221_MaximalSquare/Solution.cpp)
+
+add_executable(257
+        src/257_BinaryTreePaths/Solution.cpp)
+
+add_executable(565
+        src/565_ArrayNesting/Solution.cpp)

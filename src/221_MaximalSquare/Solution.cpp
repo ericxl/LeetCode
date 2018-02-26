@@ -1,8 +1,10 @@
 //
 // Created by Eric Liang on 2/25/18.
 //
-#include "../../inc/leetcode.h"
-class Solution221 {
+
+#include <leetcode.h>
+
+class Solution {
 public:
     int maximalSquare(vector<vector<char>>& matrix) {
         if (matrix.size() == 0) return 0;
@@ -34,8 +36,8 @@ public:
     }
 };
 
-int main221(){
-    Solution221 s;
+int main(){
+    Solution s;
     vector<vector<char>> v = {{'1','0','1','0'},{'1','0','1','1'},{'1','0','1','1'},{'1','1','1','1'}};
     auto val1 = s.maximalSquare(v);
 

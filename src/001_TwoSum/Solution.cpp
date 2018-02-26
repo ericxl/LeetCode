@@ -1,4 +1,8 @@
-#include "../../inc/leetcode.h"
+//
+// Created by Eric Liang on 2/24/18.
+//
+
+#include <leetcode.h>
 
 class Solution
 {
@@ -27,7 +31,7 @@ class Solution
     }
 };
 
-int main001()
+int main()
 {
 
     Solution s;

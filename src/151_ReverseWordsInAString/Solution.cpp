@@ -2,8 +2,7 @@
 // Created by Eric Liang on 2/25/18.
 //
 
-#include "../../inc/leetcode.h"
-
+#include <leetcode.h>
 
 class Solution {
 public:
@@ -41,7 +40,7 @@ public:
     }
 };
 
-int main151()
+int main()
 {
 
     Solution s;

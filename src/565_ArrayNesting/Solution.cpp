@@ -1,9 +1,10 @@
 //
 // Created by Eric Liang on 2/25/18.
 //
-#include "../../inc/leetcode.h"
 
-class Solution565 {
+#include <leetcode.h>
+
+class Solution {
 public:
     int arrayNesting(vector<int>& nums) {
         int res = 0;
@@ -36,7 +37,7 @@ public:
 
 
 int main(){
-    Solution565 s;
+    Solution s;
     vector<int> v = {0,2,1};
     int val = s.arrayNesting(v);
     int x = 0;

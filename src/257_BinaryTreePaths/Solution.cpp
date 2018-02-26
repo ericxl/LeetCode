@@ -2,7 +2,7 @@
 // Created by Eric Liang on 2/25/18.
 //
 
-#include "../../inc/leetcode.h"
+#include <leetcode.h>
 
 struct TreeNode {
     int val;
@@ -13,7 +13,7 @@ struct TreeNode {
 };
 
 
-class Solution257 {
+class Solution {
 public:
     vector<string> binaryTreePaths(TreeNode *root) {
         vector<string> res;
@@ -52,8 +52,8 @@ public:
     }
 };
 
-int main257(){
-    Solution257 s;
+int main(){
+    Solution s;
 
     int x = 0;
 }

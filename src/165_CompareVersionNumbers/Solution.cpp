@@ -2,9 +2,9 @@
 // Created by Eric Liang on 2/25/18.
 //
 
-#include "../../inc/leetcode.h"
+#include <leetcode.h>
 
-class Solution165 {
+class Solution {
 public:
     int compareVersion(string version1, string version2) {
         vector<int>v1 = toVector(version1);
@@ -61,8 +61,8 @@ public:
     }
 };
 
-int main165(){
-    Solution165 s;
+int main(){
+    Solution s;
     auto val1 = s.compareVersion("1","1");
     auto val2 = s.compareVersion("1","2");
     auto val3 = s.compareVersion("1.1","1.2");
