@@ -9,11 +9,68 @@ include_directories("inc")
 add_executable(001
         src/001_TwoSum/Solution.cpp)
 
+add_executable(002
+        src/002_AddTwoNumbers/Solution.cpp)
+
+add_executable(003
+        src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)
+
+add_executable(004
+        src/004_MedianOfTwoSortedArrays/Solution.cpp)
+
+add_executable(007
+        src/007_ReverseInteger/Solution.cpp)
+
+add_executable(009
+        src/009_PalindromeNumber/Solution.cpp)
+
+add_executable(011
+        src/011_ContainerWithMostWater/Solution.cpp)
+
+add_executable(012
+        src/012_IntegerToRoman/Solution.cpp)
+
+add_executable(013
+        src/013_RomanToInteger/Solution.cpp)
+
+add_executable(014
+        src/014_LongestCommonPrefix/Solution.cpp)
+
+add_executable(021
+        src/021_MergeTwoSortedLists/Solution.cpp)
+
 add_executable(028
         src/028_StrStr/Solution.cpp)
 
+add_executable(036
+        src/036_ValidSudoku/Solution.cpp)
+
+add_executable(042
+        src/042_TrappingRainWater/Solution.cpp)
+
 add_executable(048
         src/048_RotateImage/Solution.cpp)
+
+add_executable(069
+        src/069_Sqrt/Solution.cpp)
+
+add_executable(070
+        src/070_ClimbingStairs/Solution.cpp)
+
+add_executable(102
+        src/102_BinaryTreeLevelOrderTraversal/Solution.cpp)
+
+add_executable(104
+        src/104_MaximumDepthOfBinaryTree/Solution.cpp)
+
+add_executable(118
+        src/118_PascalsTriangle/Solution.cpp)
+
+add_executable(136
+        src/136_SingerNumber/Solution.cpp)
+
+add_executable(149
+        src/149_MaxPointsOnALine/Solution.cpp)
 
 add_executable(151
         src/151_ReverseWordsInAString/Solution.cpp)
@@ -21,11 +78,59 @@ add_executable(151
 add_executable(165
         src/165_CompareVersionNumbers/Solution.cpp)
 
+add_executable(190
+        src/190_ReverseBits/Solution.cpp)
+
+add_executable(191
+        src/191_NumberOf1Bits/Solution.cpp)
+
+add_executable(206
+        src/206_ReverseLinkedList/Solution.cpp)
+
+add_executable(207
+        src/207_CourseSchedule/Solution.cpp)
+
+add_executable(215
+        src/215_KthLargestElementInAnArray/Solution.cpp)
+
 add_executable(221
         src/221_MaximalSquare/Solution.cpp)
 
+add_executable(236
+        src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)
+
+add_executable(237
+        src/237_DeleteNodeInALinkedList/Solution.cpp)
+
+add_executable(238
+        src/238_ProductOfArrayExceptSelf/Solution.cpp)
+
+add_executable(240
+        src/240_SearchA2DMatrixII/Solution.cpp)
+
 add_executable(257
         src/257_BinaryTreePaths/Solution.cpp)
+
+add_executable(273
+        src/273_IntegerToEnglishWords/Solution.cpp)
+
+add_executable(284
+        src/284_PeekingIterator/Solution.cpp)
+
+add_executable(292
+        src/292_NimGame/Solution.cpp)
+
+add_executable(344
+        src/344_ReverseString/Solution.cpp)
+
+add_executable(383
+        src/383_RansomNote/Solution.cpp)
+
+add_executable(458
+        src/458_PoorPigs/Solution.cpp)
+
+add_executable(461
+        src/461_HammingDistance/Solution.cpp)
 
 add_executable(565
         src/565_ArrayNesting/Solution.cpp)
