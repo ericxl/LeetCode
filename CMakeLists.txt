@@ -123,6 +123,9 @@ add_executable(292
 add_executable(344
         src/344_ReverseString/Solution.cpp)
 
+add_executable(371
+        src/371_SumOfTwoIntegers/Solution.cpp)
+
 add_executable(383
         src/383_RansomNote/Solution.cpp)
 
