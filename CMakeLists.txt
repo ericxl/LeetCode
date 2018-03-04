@@ -6,6 +6,9 @@ project(Leetcode)
 
 include_directories("inc")
 
+add_executable(000
+        src/000/LowestCommonAncestorOfATree/Solution.cpp)
+
 add_executable(001
         src/001_TwoSum/Solution.cpp)
 
@@ -95,6 +98,9 @@ add_executable(215
 
 add_executable(221
         src/221_MaximalSquare/Solution.cpp)
+
+add_executable(235
+        src/235_LowestCommonAncestorOfABinarySearchTree/Solution.cpp)
 
 add_executable(236
         src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)
