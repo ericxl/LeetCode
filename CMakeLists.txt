@@ -66,11 +66,17 @@ add_executable(102
 add_executable(104
         src/104_MaximumDepthOfBinaryTree/Solution.cpp)
 
+add_executable(111
+        src/111_MinimumDepthOfBinaryTree/Solution.cpp)
+
 add_executable(118
         src/118_PascalsTriangle/Solution.cpp)
 
 add_executable(136
         src/136_SingerNumber/Solution.cpp)
+
+add_executable(145
+        src/145_BinaryTreePostorderTraversal/Solution.cpp)
 
 add_executable(149
         src/149_MaxPointsOnALine/Solution.cpp)
@@ -125,6 +131,9 @@ add_executable(284
 
 add_executable(292
         src/292_NimGame/Solution.cpp)
+
+add_executable(333
+        src/333_LargestBSTSubtree/Solution.cpp)
 
 add_executable(344
         src/344_ReverseString/Solution.cpp)
