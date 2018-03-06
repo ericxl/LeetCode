@@ -18,3 +18,7 @@ int lengthOfLongestSubstring(string s) {
     }
     return res;
 }
+
+int main(){
+
+}
