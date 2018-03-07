@@ -17,12 +17,12 @@ struct Node {
 };
 
 //bottom up approach
-pair<Node*, int> searchRec(Node* root, int target){
+pair<Node*, int> searchRecBottomUp(Node* root, int target){
     if (root==nullptr) return make_pair(nullptr, 0); //but depth here is no-care
     if (root->val == target) return make_pair(root, 1); //use make_pair(root, 0) if you want the root to have level of 0
 
     for(uint i = 0; i < root->children.size(); i++){
-        pair<Node*, int> childRet = searchRec(root->children[i], target);
+        pair<Node*, int> childRet = searchRecBottomUp(root->children[i], target);
         if(childRet.first != nullptr) {
             return make_pair(childRet.first, (childRet.second + 1) );
         }
@@ -30,13 +30,14 @@ pair<Node*, int> searchRec(Node* root, int target){
     return make_pair(nullptr, 0);
 };
 
+
 //top down approach
-Node* searchRec(Node* root, int target, int depth, int& outDepth){
+Node* searchRecTopDown(Node* root, int target, int depth, int& outDepth){
     if (root==nullptr) return nullptr; //but depth here is no-care
-    if (root->val == target) root; //use make_pair(root, 0) if you want the root to have level of 0
+    if (root->val == target) return root; //use make_pair(root, 0) if you want the root to have level of 0
 
     for(uint i = 0; i < root->children.size(); i++){
-        Node* childRet = searchRec(root->children[i], target, depth+1, outDepth);
+        Node* childRet = searchRecTopDown(root->children[i], target, depth+1, outDepth);
         if(childRet != nullptr) {
             outDepth = depth;
             return childRet;
@@ -46,7 +47,7 @@ Node* searchRec(Node* root, int target, int depth, int& outDepth){
 };
 
 Node* search(Node* root, int target, int& outDepth){            //or use top down approach
-    auto res = searchRec(root, target);                         //int depth;
+    auto res = searchRecBottomUp(root, target);                         //int depth;
     outDepth = res.second;                                      //auto res = searchRec(root, target, 1, depth);
     return res.first;                                           //outDepth = depth;
     //return res;

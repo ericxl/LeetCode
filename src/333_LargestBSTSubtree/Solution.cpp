@@ -4,13 +4,6 @@
 
 #include <leetcode.h>
 
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
-
 tuple<TreeNode*, bool, int, int, int> bst(TreeNode* root){
     if (root == nullptr){
         return make_tuple(root, true, 0, INT_MAX, INT_MIN);

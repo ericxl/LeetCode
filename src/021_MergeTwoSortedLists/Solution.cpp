@@ -4,13 +4,6 @@
 
 #include <leetcode.h>
 
-struct ListNode {
-    int val;
-    ListNode *next;
-
-    ListNode(int x) : val(x), next(NULL) {}
-};
-
 ListNode *mergeTwoLists(ListNode *l1, ListNode *l2) {
     ListNode start = ListNode(0);
     ListNode *current = &start;

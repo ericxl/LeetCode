@@ -4,14 +4,6 @@
 
 #include <leetcode.h>
 
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-
-};
-
 void postRecur(TreeNode* root, vector<int>&order){
     if(root == nullptr) return;
 

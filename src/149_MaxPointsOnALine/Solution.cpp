@@ -4,13 +4,6 @@
 
 #include <leetcode.h>
 
-struct Point {
-    int x;
-    int y;
-    Point() : x(0), y(0) {}
-    Point(int a, int b) : x(a), y(b) {}
-};
-
 int gcd(int x, int y){
     if (y==0) return x;
     return gcd(y,x%y);

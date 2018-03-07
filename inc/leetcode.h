@@ -20,7 +20,30 @@
 #include <set>
 #include <tuple>
 #include <iterator>
+#include <sstream>
 
 using namespace std;
+
+struct ListNode {
+    int val;
+    ListNode *next;
+
+    ListNode(int x) : val(x), next(NULL) {}
+};
+
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
+
+
+struct Point {
+    int x;
+    int y;
+    Point() : x(0), y(0) {}
+    Point(int a, int b) : x(a), y(b) {}
+};
 
 #endif //LEETCODE_LEETCODE_H

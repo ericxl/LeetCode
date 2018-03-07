@@ -12,7 +12,7 @@ void merge(vector<int>& nums, int start, int end){
 
     int copied = 0;
     while (copied < copy.size()){
-        if ((left <= mid) &&(nums[left] < nums[right]) || (right>end)){
+        if (((left <= mid) && (nums[left] < nums[right])) || (right>end)){
             copy[copied] = nums[left];
             copied++;
             left++;

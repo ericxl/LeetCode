@@ -4,13 +4,6 @@
 
 #include <leetcode.h>
 
-struct ListNode {
-    int val;
-    ListNode *next;
-
-    ListNode(int x) : val(x), next(NULL) {}
-};
-
 ListNode* merge( ListNode* head1 , ListNode * head2){
     ListNode* d = new ListNode (0);            // dummy node
     ListNode* e = d;

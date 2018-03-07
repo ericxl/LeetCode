@@ -4,14 +4,6 @@
 
 #include <leetcode.h>
 
-
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
-
 long max(long x1, long x2){
     return x1 > x2 ? x1 : x2;
 }

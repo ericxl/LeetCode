@@ -4,13 +4,6 @@
 
 #include <leetcode.h>
 
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
-
 void levelDFS(TreeNode* root, int depth, vector<vector<int>>& result){
     if (root == nullptr){
         return;
