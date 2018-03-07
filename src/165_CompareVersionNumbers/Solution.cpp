@@ -71,7 +71,5 @@ int main(){
     auto val6 = s.compareVersion("2.3.5","1.5.6");
     auto val7 = s.compareVersion("1.0.0.0","1");
     auto val8 = s.compareVersion("3.0.4.10","3.0.4.2");
-
-    int x = 0;
 }
 

@@ -53,5 +53,4 @@ int main(){
     //n10.left = &n5;
     n10.right = &n15;
     auto result = largestBSTSubtree(&n10);
-    int x = 0;
 }

@@ -47,6 +47,4 @@ int main()
 
     string str = "  hao le     ";
     s.reverseWords(str);
-
-    return 0;
 }

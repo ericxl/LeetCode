@@ -75,6 +75,4 @@ int main(){
     vector<int> a = {2,1};
 
     int y = findKthLargest(a, 1);
-
-    int x = 0;
 }

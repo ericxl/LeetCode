@@ -48,5 +48,4 @@ int main(){
     //n1.right = &n3;
     //n2.left = &n1;
     auto result = maxPathSum(&n1);
-    int x = 0;
 }

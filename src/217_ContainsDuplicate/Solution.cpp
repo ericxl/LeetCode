@@ -18,5 +18,4 @@ bool containsDuplicate(vector<int>& nums) {
 int main(){
     vector<int> s = {-1200000005,-1200000005};
     auto result = containsDuplicate(s);
-    int x = 0;
 }

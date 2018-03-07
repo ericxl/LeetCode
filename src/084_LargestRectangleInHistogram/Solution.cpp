@@ -42,5 +42,4 @@ int largestRectangleArea(vector<int>& heights) {
 int main(){
     vector<int> array = {1,2,4};
     int area = largestRectangleArea(array);
-    int x = 0;
 }

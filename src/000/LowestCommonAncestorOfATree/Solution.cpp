@@ -67,8 +67,6 @@ int main(){
 
     int depth;
     search(&n5, 7, depth);
-
-    int dummyVar = 0;
 }
 
 

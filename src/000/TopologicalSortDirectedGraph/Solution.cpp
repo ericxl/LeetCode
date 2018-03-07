@@ -126,5 +126,4 @@ int main(){
     vector<pair<int,int>> pre= {s1, s2,s3};
     BFSITRSolution solution;
     auto result = solution.topological_sort(3, pre);
-    int x = 0;
 }

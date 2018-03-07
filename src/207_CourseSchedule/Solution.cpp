@@ -53,6 +53,5 @@ int main(){
     vector<pair<int, int>> m = {make_pair(1,0)};
 
     bool can = canFinish(2, m);
-    int x = 0;
 }
 

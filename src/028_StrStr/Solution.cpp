@@ -26,7 +26,5 @@ int strStr(string haystack, string needle) {
 }
 
 int main() {
-
     int result = strStr("hello", "ll");
-
 }

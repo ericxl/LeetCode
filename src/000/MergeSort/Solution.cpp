@@ -50,5 +50,4 @@ void mergeSort(vector<int>& nums){
 int main(){
     vector<int> arr = {12, 15, 23, 4 , 6, 10, 35, 28, 100, 130, 500, 1000, 235, 554, 75, 345, 800, 222, 333, 888, 444, 111, 666, 777, 60};
     mergeSort(arr);
-    int x = 0;
 }

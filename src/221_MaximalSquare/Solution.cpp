@@ -40,6 +40,4 @@ int main(){
     Solution s;
     vector<vector<char>> v = {{'1','0','1','0'},{'1','0','1','1'},{'1','0','1','1'},{'1','1','1','1'}};
     auto val1 = s.maximalSquare(v);
-
-    int x = 0;
 }

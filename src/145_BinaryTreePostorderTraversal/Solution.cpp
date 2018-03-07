@@ -71,5 +71,4 @@ int main(){
     n3.left = &n3;
     n3.right = &n2;
     auto result = postorderTraversal(&n1);
-    int x = 0;
 }

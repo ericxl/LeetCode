@@ -67,5 +67,4 @@ string longestPalindromeDPWithMemory(string s) {
 
 int main(){
     string result = longestPalindromeDPWithMemory("aabaaa");
-    int x = 0;
 }
