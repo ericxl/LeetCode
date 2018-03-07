@@ -4,6 +4,12 @@
 
 #include <leetcode.h>
 
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode(int x) : val(x), next(NULL) {}
+};
+
 bool hasCycle(ListNode *head) {
     if (head == nullptr) return false;
     ListNode* walker = head;
@@ -18,4 +24,8 @@ bool hasCycle(ListNode *head) {
         }
     }
     return false;
+}
+
+int main(){
+
 }

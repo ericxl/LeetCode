@@ -12,3 +12,7 @@ string intToRoman(int num) {
 
     return Ms[num / 1000] + Cs[(num % 1000)/100] + Xs[(num % 100)/10] + Is[num % 10];
 }
+
+int main(){
+
+}

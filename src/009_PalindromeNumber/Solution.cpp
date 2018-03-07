@@ -14,3 +14,7 @@ bool isPalindrome(int x) {
     if (newVal == x) return true;
     return false;
 }
+
+int main(){
+
+}

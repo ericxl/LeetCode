@@ -4,6 +4,20 @@
 
 #include <leetcode.h>
 
+string toStr(int num){
+    int one = num % 10;
+    int ten = (num % 100) / 10;
+    int tens = num % 100;
+    int hun = num / 100;
+
+    string oneStr[] = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven","Twelve",
+                       "Thirteen", "Fourteen","Fifteen","Sixteen","Seventeen", "Eighteen","Nineteen"};
+    string tenStr[] = {"", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+    return (hun > 0 ? oneStr[hun] + " Hundred" + (tens > 0 ? " " : ""): "") + (tens > 19 ?
+                                                                               tenStr[ten] + (one > 0 ? " " + oneStr[one] : ""):
+                                                                               oneStr[tens]);
+}
+
 string numberToWords(int num) {
     if (num == 0) return "Zero";
     int bill = num / 1000000000;
@@ -42,4 +56,8 @@ string numberToWords(int num) {
 
 
     return res;
+}
+
+int main(){
+
 }

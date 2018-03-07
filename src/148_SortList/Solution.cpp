@@ -46,3 +46,7 @@ ListNode* sortList(ListNode *head) {
     return merge(sortList(head), sortList(second));
 
 }
+
+int main(){
+
+}

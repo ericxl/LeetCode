@@ -6,7 +6,7 @@
 
 vector<int> twoSum(vector<int> &nums, int target) {
     vector<int> result;
-    unordered_map<int, int> comp;
+    map<int, int> comp;
 
     for (int i = 0; i < nums.size(); i++) {
         int cur = nums[i];

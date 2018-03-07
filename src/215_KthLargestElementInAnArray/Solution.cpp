@@ -2,7 +2,7 @@
 // Created by Eric Liang on 2/24/18.
 //
 
-#include <leetcode.h>*(&nums)
+#include <leetcode.h>
 
 int quickSelectPartition(vector<int>& nums, int from, int to){
     if (from == to){return from;}
@@ -70,8 +70,6 @@ void quickSortRec(vector<int>& nums, int from, int to) {
 void quickSort(vector<int>& nums){
     quickSortRec(nums, 0, nums.size() - 1);
 }
-
-
 
 int main(){
     vector<int> a = {2,1};

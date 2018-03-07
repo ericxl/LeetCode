@@ -11,3 +11,7 @@ int singleNumber(vector<int>& nums) {
     }
     return res;
 }
+
+int main(){
+
+}
