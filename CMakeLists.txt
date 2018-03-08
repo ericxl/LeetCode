@@ -4,6 +4,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 project(Leetcode)
 
-#include_directories("inc")
-
 add_subdirectory("src")

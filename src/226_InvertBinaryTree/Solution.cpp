@@ -15,5 +15,4 @@ TreeNode* invertTree(TreeNode* root) {
 }
 
 int main(){
-
 }
