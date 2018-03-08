@@ -3,6 +3,7 @@
 //
 
 #include <leetcode.h>
+
 string addBinary(string a, string b) {
     string s = "";
 

@@ -1,7 +1,7 @@
 # OpenLeetCode
 
 | Sequence | Problem       | Link  |
-|:-------:|:--------------|:------:|
+|:-------:|:--------------------------------|:------:|
 |1|[Two Sum](src/001_TwoSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum)|
 |2|[Add Two Numbers](src/002_AddTwoNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-two-numbers)|
 |3|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters)|
@@ -17,6 +17,7 @@
 |17|[Letter Combinations of a Phone Number](src/017_LetterCombinationsOfAPhoneNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|
 |20|[Valid Parentheses](src/020_ValidParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-parentheses)|
 |21|[Merge Two Sorted Lists](src/021_MergeTwoSortedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|
+|22|[Generate Parentheses](src/022_GenerateParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/generate-parentheses)|
 |26|[Remove Duplicates from Sorted Array](src/026_RemoveDuplicatesFromSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
 |27|[Remove Element](src/027_RemoveElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-element)|
 |28|[Implement strStr()](src/028_StrStr/Solution.cpp)|[LeetCode](https://leetcode.com/problems/implement-strstr)|
@@ -41,6 +42,7 @@
 |122|[Best Time to Buy and Sell Stock II](src/122_BestTimeToBuyAndSellStockII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|
 |124|[Binary Tree Maximum Path Sum](src/124_BinaryTreeMaximumPathSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum)|
 |136|[Single Number](src/136_SingerNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number)|
+|138|[Copy List with Random Pointer](src/138_CopyListWithRandomPointer/Solution.cpp)|[LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer)|
 |141|[Linked List Cycle](src/141_LinkedListCycle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/linked-list-cycle)|
 |145|[Binary Tree Postorder Traversal](src/145_BinaryTreePostorderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal)|
 |148|[Sort List](src/148_SortList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sort-list)|
@@ -48,6 +50,7 @@
 |151|[Reverse Words in a String](src/151_ReverseWordsInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-words-in-a-string)|
 |165|[Compare Version Numbers](src/165_CompareVersionNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/compare-version-numbers)|
 |169|[Majority Element](src/169_MajorityElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element)|
+|171|[Excel Sheet Column Number](src/171_ExcelSheetColumnNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/excel-sheet-column-number)|
 |172|[Factorial Trailing Zeroes](src/172_FactorialTrailingZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes)|
 |190|[Reverse Bits](src/190_ReverseBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-bits)|
 |191|[Number of 1 Bits](src/191_NumberOf1Bits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-1-bits)|
@@ -65,7 +68,7 @@
 |236|[Lowest Common Ancestor of a Binary Tree](src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
 |237|[Delete Node in a Linked List](src/237_DeleteNodeInALinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|
 |238|[Product of Array Except Self](src/238_ProductOfArrayExceptSelf/Solution.cpp)|[LeetCode](https://leetcode.com/problems/product-of-array-except-self)|
-|240|[Search a 2D Matrix II](src/238_Product/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii)|
+|240|[Search a 2D Matrix II](src/240_SearchA2DMatrixII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii)|
 |257|[Binary Tree Paths](src/257_BinaryTreePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-paths)|
 |258|[Add Digits](src/258_AddDigits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-digits)|
 |261|[Graph Valid Tree](src/261_GraphValidTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/graph-valid-tree)|
