@@ -1,6 +1,5 @@
 # OpenLeetCode
 
-
 | Sequence | Problem       | Link  |
 |:-------:|:--------------|:------:|
 |1|[Two Sum](src/001_TwoSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum)|
@@ -66,3 +65,23 @@
 |236|[Lowest Common Ancestor of a Binary Tree](src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
 |237|[Delete Node in a Linked List](src/237_DeleteNodeInALinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|
 |238|[Product of Array Except Self](src/238_ProductOfArrayExceptSelf/Solution.cpp)|[LeetCode](https://leetcode.com/problems/product-of-array-except-self)|
+|240|[Search a 2D Matrix II](src/238_Product/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii)|
+|257|[Binary Tree Paths](src/257_BinaryTreePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-paths)|
+|258|[Add Digits](src/258_AddDigits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-digits)|
+|261|[Graph Valid Tree](src/261_GraphValidTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/graph-valid-tree)|
+|273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
+|283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
+|284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
+|292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
+|333|[Largest BST Subtree](src/333_LargestBSTSubtree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-bst-subtree)|
+|344|[Reverse String](src/344_ReverseString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-string)|
+|371|[Sum of Two Integers](src/371_SumOfTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sum-of-two-integers)|
+|383|[Ransom Note](src/383_RansomNote/Solution.cpp)|[LeetCode](https://leetcode.com/problems/ransom-note)|
+|388|[Longest Absolute File Path](src/388_LongestAbsoluteFilePath/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-absolute-file-path)|
+|412|[Fizz Buzz](src/412_FizzBuzz/Solution.cpp)|[LeetCode](https://leetcode.com/problems/fizz-buzz)|
+|458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
+|461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
+|561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
+|565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
+|617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
+|771|[Jewels and Stones](src/771_JewelsAndStones/Solution.cpp)|[LeetCode](https://leetcode.com/problems/jewels-and-stones)|
