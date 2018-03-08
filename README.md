@@ -3,19 +3,66 @@
 
 | Sequence | Problem       | Link  |
 |:-------:|:--------------|:------:|
-|001|[Two Sum](src/001_TwoSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum/description/)|
-|002|[Add Two Numbers](src/002_AddTwoNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-two-numbers/)|
-|003|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|004|[Median of Two Sorted Arrays](src/004_MedianOfTwoSortedArrays/Solution.cpp)|[LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|
-|005|[Longest Palindromic Substring](src/005_LongestPalindromicSubstring/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-palindromic-substring/description/)|
-|007|[Reverse Integer](src/007_ReverseInteger/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-integer/description/)|
-|009|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|011|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|012|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|013|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|014|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|015|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|020|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|021|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|027|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-|028|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
+|1|[Two Sum](src/001_TwoSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum)|
+|2|[Add Two Numbers](src/002_AddTwoNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-two-numbers)|
+|3|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters)|
+|4|[Median of Two Sorted Arrays](src/004_MedianOfTwoSortedArrays/Solution.cpp)|[LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays)|
+|5|[Longest Palindromic Substring](src/005_LongestPalindromicSubstring/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-palindromic-substring)|
+|7|[Reverse Integer](src/007_ReverseInteger/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-integer)|
+|9|[Palindrome Number](src/009_PalindromeNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/palindrome-number)|
+|11|[Container With Most Water](src/011_ContainerWithMostWater/Solution.cpp)|[LeetCode](https://leetcode.com/problems/container-with-most-water)|
+|12|[Integer to Roman](src/012_IntegerToRoman/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-roman)|
+|13|[Roman to Integer](src/013_RomanToInteger/Solution.cpp)|[LeetCode](https://leetcode.com/problems/roman-to-integer)|
+|14|[LongestCommonPrefix](src/014_LongestCommonPrefix/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-common-prefix)|
+|15|[3Sum](src/015_3Sum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/3sum)|
+|17|[Letter Combinations of a Phone Number](src/017_LetterCombinationsOfAPhoneNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|
+|20|[Valid Parentheses](src/020_ValidParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-parentheses)|
+|21|[Merge Two Sorted Lists](src/021_MergeTwoSortedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|
+|26|[Remove Duplicates from Sorted Array](src/026_RemoveDuplicatesFromSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
+|27|[Remove Element](src/027_RemoveElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-element)|
+|28|[Implement strStr()](src/028_StrStr/Solution.cpp)|[LeetCode](https://leetcode.com/problems/implement-strstr)|
+|36|[Valid Sudoku](src/036_ValidSudoku/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-sudoku)|
+|42|[Trapping Rain Water](src/042_TrappingRainWater/Solution.cpp)|[LeetCode](https://leetcode.com/problems/trapping-rain-water)|
+|48|[Rotate Image](src/048_RotateImage/Solution.cpp)|[LeetCode](https://leetcode.com/problems/rotate-image)|
+|50|[Pow(x, n)](src/050_PowXN/Solution.cpp)|[LeetCode](https://leetcode.com/problems/powx-n)|
+|53|[Maximum Subarray](src/053_MaximumSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-subarray)|
+|66|[Plus One](src/066_PlusOne/Solution.cpp)|[LeetCode](https://leetcode.com/problems/plus-one)|
+|67|[ADD Binary](src/067_AddBinary/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-binary)|
+|69|[Sqrt(x)](src/069_Sqrt/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sqrtx)|
+|70|[Climbing Stairs](src/070_ClimbingStairs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/climbing-stairs)|
+|72|[Edit Distance](src/072_EditDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/edit-distance)|
+|84|[Largest Rectangle in Histogram](src/084_LargestRectangleInHistogram/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram)|
+|88|[Merge Sorted Array](src/088_MergeSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-sorted-array)|
+|98|[Validate Binary Search Tree](src/098_ValidateBinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/validate-binary-search-tree)|
+|102|[Binary Tree Level Order Traversal](src/102_BinaryTreeLevelOrderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)|
+|104|[Maximum Depth of Binary Tree](src/104_MaximumDepthOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree)|
+|111|[Minimum Depth of Binary Tree](src/111_MinimumDepthOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree)|
+|118|[Pascal's Triangle](src/118_PascalsTriangle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/pascals-triangle)|
+|121|[Best Time to Buy and Sell Stock](src/121_BestTimeToBuyAndSellStock/Solution.cpp)|[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
+|122|[Best Time to Buy and Sell Stock II](src/122_BestTimeToBuyAndSellStockII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|
+|124|[Binary Tree Maximum Path Sum](src/124_BinaryTreeMaximumPathSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum)|
+|136|[Single Number](src/136_SingerNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number)|
+|141|[Linked List Cycle](src/141_LinkedListCycle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/linked-list-cycle)|
+|145|[Binary Tree Postorder Traversal](src/145_BinaryTreePostorderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal)|
+|148|[Sort List](src/148_SortList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sort-list)|
+|149|[Max Points on a Line](src/149_MaxPointsOnALine/Solution.cpp)|[LeetCode](https://leetcode.com/problems/max-points-on-a-line)|
+|151|[Reverse Words in a String](src/151_ReverseWordsInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-words-in-a-string)|
+|165|[Compare Version Numbers](src/165_CompareVersionNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/compare-version-numbers)|
+|169|[Majority Element](src/169_MajorityElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element)|
+|172|[Factorial Trailing Zeroes](src/172_FactorialTrailingZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes)|
+|190|[Reverse Bits](src/190_ReverseBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-bits)|
+|191|[Number of 1 Bits](src/191_NumberOf1Bits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-1-bits)|
+|198|[House Robber](src/198_HouseRobber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/house-robber)|
+|202|[Happy Number](src/202_HappyNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/happy-number)|
+|206|[Reverse Linked List](src/206_ReverseLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-linked-list)|
+|207|[Course Schedule](src/207_CourseSchedule/Solution.cpp)|[LeetCode](https://leetcode.com/problems/course-schedule)|
+|210|[Course Schedule II](src/210_CourseScheduleII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/course-schedule-ii)|
+|215|[Kth Largest Element in an Array](src/215_KthLargestElementInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array)|
+|217|[Contains Duplicate](src/217_ContainsDuplicate/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate)|
+|221|[Maximal Square](src/221_MaximalSquare/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximal-square)|
+|222|[Count Complete Tree Nodes](src/222_CountCompleteTreeNodes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/count-complete-tree-nodes)|
+|226|[Invert Binary Tree](src/226_InvertBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/invert-binary-tree)|
+|235|[Lowest Common Ancestor of a Binary Search Tree](src/235_LowestCommonAncestorOfABinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
+|236|[Lowest Common Ancestor of a Binary Tree](src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
+|237|[Delete Node in a Linked List](src/237_DeleteNodeInALinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|
+|238|[Product of Array Except Self](src/238_ProductOfArrayExceptSelf/Solution.cpp)|[LeetCode](https://leetcode.com/problems/product-of-array-except-self)|
