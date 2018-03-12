@@ -54,6 +54,7 @@
 |149|[Max Points on a Line](src/149_MaxPointsOnALine/Solution.cpp)|[LeetCode](https://leetcode.com/problems/max-points-on-a-line)|
 |151|[Reverse Words in a String](src/151_ReverseWordsInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-words-in-a-string)|
 |152|[Maximum Product Subarray](src/152_MaximumProductSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-product-subarray)|
+|155|[Min Stack](src/155_MinStack/Solution.cpp)|[LeetCode](https://leetcode.com/problems/min-stack)|
 |165|[Compare Version Numbers](src/165_CompareVersionNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/compare-version-numbers)|
 |169|[Majority Element](src/169_MajorityElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element)|
 |171|[Excel Sheet Column Number](src/171_ExcelSheetColumnNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/excel-sheet-column-number)|
@@ -95,8 +96,10 @@
 |458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
 |461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
 |463|[Island Perimeter](src/463_IslandPerimeter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/island-perimeter)|
+|535|[Encode and Decode TinyURL](src/535_EncodeAndDecodeTinyURL/Solution.cpp)|[LeetCode](https://leetcode.com/problems/encode-and-decode-tinyurl)|
 |561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
 |565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
 |657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
+|760|[Find Anagram Mappings](src/760_FindAnagramMappings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-anagram-mappings)|
 |771|[Jewels and Stones](src/771_JewelsAndStones/Solution.cpp)|[LeetCode](https://leetcode.com/problems/jewels-and-stones)|
