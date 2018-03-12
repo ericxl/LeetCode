@@ -1,7 +1,7 @@
 # OpenLeetCode
 
 | Sequence | Problem       | Link  |
-|:-------:|:--------------------------------|:------:|
+|-------|:--------------------------------|------|
 |1|[Two Sum](src/001_TwoSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum)|
 |2|[Add Two Numbers](src/002_AddTwoNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-two-numbers)|
 |3|[Longest Substring Without Repeating Characters](src/003_LongestSubstringWithoutRepeatingCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters)|
@@ -24,8 +24,10 @@
 |36|[Valid Sudoku](src/036_ValidSudoku/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-sudoku)|
 |42|[Trapping Rain Water](src/042_TrappingRainWater/Solution.cpp)|[LeetCode](https://leetcode.com/problems/trapping-rain-water)|
 |48|[Rotate Image](src/048_RotateImage/Solution.cpp)|[LeetCode](https://leetcode.com/problems/rotate-image)|
+|49|[Group Anagrams](src/049_GroupAnagrams/Solution.cpp)|[LeetCode](https://leetcode.com/problems/group-anagrams)|
 |50|[Pow(x, n)](src/050_PowXN/Solution.cpp)|[LeetCode](https://leetcode.com/problems/powx-n)|
 |53|[Maximum Subarray](src/053_MaximumSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-subarray)|
+|56|[Merge Intervals](src/056_MergeIntervals/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-intervals)|
 |66|[Plus One](src/066_PlusOne/Solution.cpp)|[LeetCode](https://leetcode.com/problems/plus-one)|
 |67|[ADD Binary](src/067_AddBinary/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-binary)|
 |69|[Sqrt(x)](src/069_Sqrt/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sqrtx)|
@@ -56,6 +58,7 @@
 |190|[Reverse Bits](src/190_ReverseBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-bits)|
 |191|[Number of 1 Bits](src/191_NumberOf1Bits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-1-bits)|
 |198|[House Robber](src/198_HouseRobber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/house-robber)|
+|200|[Number of Islands](src/200_NumberOfIslands/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-islands)|
 |202|[Happy Number](src/202_HappyNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/happy-number)|
 |206|[Reverse Linked List](src/206_ReverseLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-linked-list)|
 |207|[Course Schedule](src/207_CourseSchedule/Solution.cpp)|[LeetCode](https://leetcode.com/problems/course-schedule)|
@@ -79,6 +82,7 @@
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
 |292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
 |333|[Largest BST Subtree](src/333_LargestBSTSubtree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-bst-subtree)|
+|338|[Counting Bits](src/338_CountingBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/counting-bits)|
 |344|[Reverse String](src/344_ReverseString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-string)|
 |371|[Sum of Two Integers](src/371_SumOfTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sum-of-two-integers)|
 |383|[Ransom Note](src/383_RansomNote/Solution.cpp)|[LeetCode](https://leetcode.com/problems/ransom-note)|
@@ -89,4 +93,5 @@
 |561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
 |565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
+|657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
 |771|[Jewels and Stones](src/771_JewelsAndStones/Solution.cpp)|[LeetCode](https://leetcode.com/problems/jewels-and-stones)|
