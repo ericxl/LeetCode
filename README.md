@@ -22,6 +22,7 @@
 |26|[Remove Duplicates from Sorted Array](src/026_RemoveDuplicatesFromSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
 |27|[Remove Element](src/027_RemoveElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-element)|
 |28|[Implement strStr()](src/028_StrStr/Solution.cpp)|[LeetCode](https://leetcode.com/problems/implement-strstr)|
+|33|[Search in Rotated Sorted Array](src/033_SearchInRotatedSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)|
 |36|[Valid Sudoku](src/036_ValidSudoku/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-sudoku)|
 |42|[Trapping Rain Water](src/042_TrappingRainWater/Solution.cpp)|[LeetCode](https://leetcode.com/problems/trapping-rain-water)|
 |48|[Rotate Image](src/048_RotateImage/Solution.cpp)|[LeetCode](https://leetcode.com/problems/rotate-image)|
@@ -54,7 +55,9 @@
 |149|[Max Points on a Line](src/149_MaxPointsOnALine/Solution.cpp)|[LeetCode](https://leetcode.com/problems/max-points-on-a-line)|
 |151|[Reverse Words in a String](src/151_ReverseWordsInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-words-in-a-string)|
 |152|[Maximum Product Subarray](src/152_MaximumProductSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-product-subarray)|
+|153|[Find Minimum in Rotated Sorted Array](src/153_FindMinimumInRotatedSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|
 |155|[Min Stack](src/155_MinStack/Solution.cpp)|[LeetCode](https://leetcode.com/problems/min-stack)|
+|160|[Intersection of Two Linked Lists](src/160_IntersectionOfTwoLinkedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists)|
 |165|[Compare Version Numbers](src/165_CompareVersionNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/compare-version-numbers)|
 |169|[Majority Element](src/169_MajorityElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element)|
 |171|[Excel Sheet Column Number](src/171_ExcelSheetColumnNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/excel-sheet-column-number)|
@@ -69,9 +72,11 @@
 |210|[Course Schedule II](src/210_CourseScheduleII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/course-schedule-ii)|
 |215|[Kth Largest Element in an Array](src/215_KthLargestElementInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array)|
 |217|[Contains Duplicate](src/217_ContainsDuplicate/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate)|
+|219|[Contains Duplicate II](src/219_ContainsDuplicateII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate-ii)|
 |221|[Maximal Square](src/221_MaximalSquare/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximal-square)|
 |222|[Count Complete Tree Nodes](src/222_CountCompleteTreeNodes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/count-complete-tree-nodes)|
 |226|[Invert Binary Tree](src/226_InvertBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/invert-binary-tree)|
+|234|[Palindrome Linked List](src/234_PalindromeLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/palindrome-linked-list************)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](src/235_LowestCommonAncestorOfABinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
 |236|[Lowest Common Ancestor of a Binary Tree](src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
 |237|[Delete Node in a Linked List](src/237_DeleteNodeInALinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|
@@ -85,6 +90,7 @@
 |283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
 |292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
+|319|[Bulb Switcher](src/319_BulbSwitcher/Solution.cpp)|[LeetCode](https://leetcode.com/problems/bulb-switcher)|
 |328|[Odd Even Linked List](src/328_OddEvenLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/odd-even-linked-list)|
 |333|[Largest BST Subtree](src/333_LargestBSTSubtree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-bst-subtree)|
 |338|[Counting Bits](src/338_CountingBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/counting-bits)|
