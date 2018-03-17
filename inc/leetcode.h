@@ -52,4 +52,11 @@ struct Point {
     Point(int a, int b) : x(a), y(b) {}
 };
 
+struct Interval {
+    int start;
+    int end;
+    Interval() : start(0), end(0) {}
+    Interval(int s, int e) : start(s), end(e) {}
+};
+
 #endif //LEETCODE_LEETCODE_H
