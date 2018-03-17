@@ -40,6 +40,7 @@
 |72|[Edit Distance](src/072_EditDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/edit-distance)|
 |84|[Largest Rectangle in Histogram](src/084_LargestRectangleInHistogram/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram)|
 |88|[Merge Sorted Array](src/088_MergeSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-sorted-array)|
+|96|[Unique Binary Search Trees](src/096_UniqueBinarySearchTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/unique-binary-search-trees)|
 |98|[Validate Binary Search Tree](src/098_ValidateBinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/validate-binary-search-tree)|
 |100|[Same Tree](src/100_SameTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/same-tree)|
 |102|[Binary Tree Level Order Traversal](src/102_BinaryTreeLevelOrderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)|
@@ -69,6 +70,7 @@
 |171|[Excel Sheet Column Number](src/171_ExcelSheetColumnNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/excel-sheet-column-number)|
 |172|[Factorial Trailing Zeroes](src/172_FactorialTrailingZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes)|
 |173|[Binary Search Tree Iterator](src/173_BinarySearchTreeIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-search-tree-iterator)|
+|179|[Largest Number](src/179_LargestNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-number)|
 |190|[Reverse Bits](src/190_ReverseBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-bits)|
 |191|[Number of 1 Bits](src/191_NumberOf1Bits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-1-bits)|
 |198|[House Robber](src/198_HouseRobber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/house-robber)|
