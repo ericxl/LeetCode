@@ -15,6 +15,7 @@
 |13|[Roman to Integer](src/013_RomanToInteger/Solution.cpp)|[LeetCode](https://leetcode.com/problems/roman-to-integer)|
 |14|[LongestCommonPrefix](src/014_LongestCommonPrefix/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-common-prefix)|
 |15|[3Sum](src/015_3Sum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/3sum)|
+|16|[3Sum Closest](src/016_3SumClosest/Solution.cpp)|[LeetCode](https://leetcode.com/problems/3sum-closest)|
 |17|[Letter Combinations of a Phone Number](src/017_LetterCombinationsOfAPhoneNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|
 |20|[Valid Parentheses](src/020_ValidParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-parentheses)|
 |21|[Merge Two Sorted Lists](src/021_MergeTwoSortedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|
@@ -26,6 +27,7 @@
 |31|[Next Permutation](src/031_NextPermutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/next-permutation)|
 |33|[Search in Rotated Sorted Array](src/033_SearchInRotatedSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)|
 |36|[Valid Sudoku](src/036_ValidSudoku/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-sudoku)|
+|41|[First Missing Positive](src/041_FirstMissingPositive/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-missing-positive)|
 |42|[Trapping Rain Water](src/042_TrappingRainWater/Solution.cpp)|[LeetCode](https://leetcode.com/problems/trapping-rain-water)|
 |46|[Permutations](src/046_Permutations/Solution.cpp)|[LeetCode](https://leetcode.com/problems/permutations)|
 |47|[PermutationsII](src/047_PermutationsII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/permutations-ii)|
