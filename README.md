@@ -22,6 +22,7 @@
 |26|[Remove Duplicates from Sorted Array](src/026_RemoveDuplicatesFromSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
 |27|[Remove Element](src/027_RemoveElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-element)|
 |28|[Implement strStr()](src/028_StrStr/Solution.cpp)|[LeetCode](https://leetcode.com/problems/implement-strstr)|
+|29|[Divide Two Integers](src/029_DivideTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/divide-two-integers)|
 |31|[Next Permutation](src/031_NextPermutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/next-permutation)|
 |33|[Search in Rotated Sorted Array](src/033_SearchInRotatedSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)|
 |36|[Valid Sudoku](src/036_ValidSudoku/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-sudoku)|
@@ -32,6 +33,7 @@
 |49|[Group Anagrams](src/049_GroupAnagrams/Solution.cpp)|[LeetCode](https://leetcode.com/problems/group-anagrams)|
 |50|[Pow(x, n)](src/050_PowXN/Solution.cpp)|[LeetCode](https://leetcode.com/problems/powx-n)|
 |53|[Maximum Subarray](src/053_MaximumSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-subarray)|
+|54|[Spiral Matrix](src/054_SpiralMatrix/Solution.cpp)|[LeetCode](https://leetcode.com/problems/spiral-matrix)|
 |56|[Merge Intervals](src/056_MergeIntervals/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-intervals)|
 |66|[Plus One](src/066_PlusOne/Solution.cpp)|[LeetCode](https://leetcode.com/problems/plus-one)|
 |67|[ADD Binary](src/067_AddBinary/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-binary)|
@@ -50,6 +52,7 @@
 |121|[Best Time to Buy and Sell Stock](src/121_BestTimeToBuyAndSellStock/Solution.cpp)|[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
 |122|[Best Time to Buy and Sell Stock II](src/122_BestTimeToBuyAndSellStockII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|
 |124|[Binary Tree Maximum Path Sum](src/124_BinaryTreeMaximumPathSum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum)|
+|128|[Longest Consecutive Sequence](src/128_LongestConsecutiveSequence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-consecutive-sequence)|
 |136|[Single Number](src/136_SingleNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number)|
 |137|[Single Number II](src/137_SingleNumberII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number-ii)|
 |138|[Copy List with Random Pointer](src/138_CopyListWithRandomPointer/Solution.cpp)|[LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer)|
