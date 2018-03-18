@@ -103,6 +103,7 @@
 |258|[Add Digits](src/258_AddDigits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-digits)|
 |260|[Single Number III](src/260_SingleNumberIII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number-iii)|
 |261|[Graph Valid Tree](src/261_GraphValidTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/graph-valid-tree)|
+|268|[Missing Number](src/268_MissingNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/missing-number)|
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
 |283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
