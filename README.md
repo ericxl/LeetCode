@@ -49,6 +49,7 @@
 |100|[Same Tree](src/100_SameTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/same-tree)|
 |102|[Binary Tree Level Order Traversal](src/102_BinaryTreeLevelOrderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 |104|[Maximum Depth of Binary Tree](src/104_MaximumDepthOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree)|
+|110|[Balanced Binary Tree](src/110_BalancedBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/balanced-binary-tree)|
 |111|[Minimum Depth of Binary Tree](src/111_MinimumDepthOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree)|
 |118|[Pascal's Triangle](src/118_PascalsTriangle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/pascals-triangle)|
 |121|[Best Time to Buy and Sell Stock](src/121_BestTimeToBuyAndSellStock/Solution.cpp)|[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
@@ -122,6 +123,7 @@
 |461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
 |463|[Island Perimeter](src/463_IslandPerimeter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/island-perimeter)|
 |535|[Encode and Decode TinyURL](src/535_EncodeAndDecodeTinyURL/Solution.cpp)|[LeetCode](https://leetcode.com/problems/encode-and-decode-tinyurl)|
+|540|[Single Element in a Sorted Array](src/540_SingleElementInASortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array)|
 |561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
 |565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
