@@ -19,6 +19,7 @@
 #include <utility>
 #include <set>
 #include <unordered_set>
+#include <unordered_map>
 #include <tuple>
 #include <iterator>
 #include <sstream>

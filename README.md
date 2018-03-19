@@ -20,6 +20,7 @@
 |20|[Valid Parentheses](src/020_ValidParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-parentheses)|
 |21|[Merge Two Sorted Lists](src/021_MergeTwoSortedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|
 |22|[Generate Parentheses](src/022_GenerateParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/generate-parentheses)|
+|24|[Swap Nodes in Pairs](src/024_SwapNodesInPairs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs)|
 |26|[Remove Duplicates from Sorted Array](src/026_RemoveDuplicatesFromSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
 |27|[Remove Element](src/027_RemoveElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-element)|
 |28|[Implement strStr()](src/028_StrStr/Solution.cpp)|[LeetCode](https://leetcode.com/problems/implement-strstr)|
@@ -29,6 +30,7 @@
 |36|[Valid Sudoku](src/036_ValidSudoku/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-sudoku)|
 |41|[First Missing Positive](src/041_FirstMissingPositive/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-missing-positive)|
 |42|[Trapping Rain Water](src/042_TrappingRainWater/Solution.cpp)|[LeetCode](https://leetcode.com/problems/trapping-rain-water)|
+|43|[Multiply Strings](src/043_MultiplyStrings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/multiply-strings)|
 |46|[Permutations](src/046_Permutations/Solution.cpp)|[LeetCode](https://leetcode.com/problems/permutations)|
 |47|[PermutationsII](src/047_PermutationsII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/permutations-ii)|
 |48|[Rotate Image](src/048_RotateImage/Solution.cpp)|[LeetCode](https://leetcode.com/problems/rotate-image)|
@@ -42,8 +44,10 @@
 |69|[Sqrt(x)](src/069_Sqrt/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sqrtx)|
 |70|[Climbing Stairs](src/070_ClimbingStairs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/climbing-stairs)|
 |72|[Edit Distance](src/072_EditDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/edit-distance)|
+|73|[Set Matrix Zeroes](src/073_SetMatrixZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/set-matrix-zeroes)|
 |84|[Largest Rectangle in Histogram](src/084_LargestRectangleInHistogram/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram)|
 |88|[Merge Sorted Array](src/088_MergeSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-sorted-array)|
+|89|[Gray Code](src/089_GrayCode/Solution.cpp)|[LeetCode](https://leetcode.com/problems/gray-code)|
 |96|[Unique Binary Search Trees](src/096_UniqueBinarySearchTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/unique-binary-search-trees)|
 |98|[Validate Binary Search Tree](src/098_ValidateBinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/validate-binary-search-tree)|
 |100|[Same Tree](src/100_SameTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/same-tree)|
@@ -61,6 +65,7 @@
 |138|[Copy List with Random Pointer](src/138_CopyListWithRandomPointer/Solution.cpp)|[LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer)|
 |139|[Word Break](src/139_WordBreak/Solution.cpp)|[LeetCode](https://leetcode.com/https://leetcode.com/problems/word-break)|
 |141|[Linked List Cycle](src/141_LinkedListCycle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/linked-list-cycle)|
+|142|[Linked List Cycle II](src/142_LinkedListCycleII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/linked-list-cycle-ii)|
 |145|[Binary Tree Postorder Traversal](src/145_BinaryTreePostorderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal)|
 |147|[Insertion Sort List](src/147_InsertionSortList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/insertion-sort-list)|
 |148|[Sort List](src/148_SortList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sort-list)|
@@ -71,12 +76,15 @@
 |153|[Find Minimum in Rotated Sorted Array](src/153_FindMinimumInRotatedSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|
 |155|[Min Stack](src/155_MinStack/Solution.cpp)|[LeetCode](https://leetcode.com/problems/min-stack)|
 |160|[Intersection of Two Linked Lists](src/160_IntersectionOfTwoLinkedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists)|
+|164|[Maximum Gap](src/164_MaximumGap/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-gap)|
 |165|[Compare Version Numbers](src/165_CompareVersionNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/compare-version-numbers)|
+|167|[Two Sum II - Input array is sorted](src/167_TwoSumII-InputArrayIsSorted/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|
 |169|[Majority Element](src/169_MajorityElement/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element)|
 |171|[Excel Sheet Column Number](src/171_ExcelSheetColumnNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/excel-sheet-column-number)|
 |172|[Factorial Trailing Zeroes](src/172_FactorialTrailingZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes)|
 |173|[Binary Search Tree Iterator](src/173_BinarySearchTreeIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-search-tree-iterator)|
 |179|[Largest Number](src/179_LargestNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-number)|
+|189|[Rotate Array](src/189_RotateArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/rotate-array)|
 |190|[Reverse Bits](src/190_ReverseBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-bits)|
 |191|[Number of 1 Bits](src/191_NumberOf1Bits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-1-bits)|
 |198|[House Robber](src/198_HouseRobber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/house-robber)|
@@ -88,10 +96,13 @@
 |215|[Kth Largest Element in an Array](src/215_KthLargestElementInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array)|
 |217|[Contains Duplicate](src/217_ContainsDuplicate/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate)|
 |219|[Contains Duplicate II](src/219_ContainsDuplicateII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate-ii)|
+|220|[Contains Duplicate III](src/220_ContainsDuplicateIII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate-iii)|
 |221|[Maximal Square](src/221_MaximalSquare/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximal-square)|
 |222|[Count Complete Tree Nodes](src/222_CountCompleteTreeNodes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/count-complete-tree-nodes)|
 |223|[Rectangle Area](src/223_RectangleArea/Solution.cpp)|[LeetCode](https://leetcode.com/problems/rectangle-area)|
 |226|[Invert Binary Tree](src/226_InvertBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/invert-binary-tree)|
+|228|[Summary Ranges](src/228_SummaryRanges/Solution.cpp)|[LeetCode](https://leetcode.com/problems/summary-ranges)|
+|229|[Majority Element II](src/229_MajorityElementII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element-ii)|
 |234|[Palindrome Linked List](src/234_PalindromeLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/palindrome-linked-list************)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](src/235_LowestCommonAncestorOfABinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
 |236|[Lowest Common Ancestor of a Binary Tree](src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
@@ -107,6 +118,7 @@
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
 |283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
+|287|[Find the Duplicate Number](src/287_FindTheDuplicateNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number)|
 |292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
 |319|[Bulb Switcher](src/319_BulbSwitcher/Solution.cpp)|[LeetCode](https://leetcode.com/problems/bulb-switcher)|
 |326|[Power of Three](src/326_PowerOfThree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/power-of-three)|
@@ -116,12 +128,16 @@
 |338|[Counting Bits](src/338_CountingBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/counting-bits)|
 |344|[Reverse String](src/344_ReverseString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-string)|
 |347|[Top K Frequent Elements](src/347_TopKFrequentElements/Solution.cpp)|[LeetCode](https://leetcode.com/problems/top-k-frequent-elements)|
+|349|[Intersection of Two Arrays](src/349_IntersectionOfTwoArrays/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-arrays)|
 |371|[Sum of Two Integers](src/371_SumOfTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sum-of-two-integers)|
 |383|[Ransom Note](src/383_RansomNote/Solution.cpp)|[LeetCode](https://leetcode.com/problems/ransom-note)|
 |384|[Shuffle an Array](src/384_ShuffleAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/shuffle-an-array)|
+|387|[First Unique Character in a String](src/387_FirstUniqueCharacterInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string)|
 |388|[Longest Absolute File Path](src/388_LongestAbsoluteFilePath/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-absolute-file-path)|
+|406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
 |412|[Fizz Buzz](src/412_FizzBuzz/Solution.cpp)|[LeetCode](https://leetcode.com/problems/fizz-buzz)|
 |419|[Battleships in a Board](src/419_BattleshipsInABoard/Solution.cpp)|[LeetCode](https://leetcode.com/problems/battleships-in-a-board)|
+|448|[Find All Numbers Disappeared in an Array](src/448_FindAllNumbersDisappearedInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|
 |458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
 |461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
 |463|[Island Perimeter](src/463_IslandPerimeter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/island-perimeter)|
