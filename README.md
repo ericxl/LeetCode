@@ -40,6 +40,7 @@
 |53|[Maximum Subarray](src/053_MaximumSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-subarray)|
 |54|[Spiral Matrix](src/054_SpiralMatrix/Solution.cpp)|[LeetCode](https://leetcode.com/problems/spiral-matrix)|
 |56|[Merge Intervals](src/056_MergeIntervals/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-intervals)|
+|62|[Unique Paths](src/062_UniquePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/unique-paths)|
 |66|[Plus One](src/066_PlusOne/Solution.cpp)|[LeetCode](https://leetcode.com/problems/plus-one)|
 |67|[ADD Binary](src/067_AddBinary/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-binary)|
 |69|[Sqrt(x)](src/069_Sqrt/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sqrtx)|
@@ -104,6 +105,7 @@
 |226|[Invert Binary Tree](src/226_InvertBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/invert-binary-tree)|
 |228|[Summary Ranges](src/228_SummaryRanges/Solution.cpp)|[LeetCode](https://leetcode.com/problems/summary-ranges)|
 |229|[Majority Element II](src/229_MajorityElementII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/majority-element-ii)|
+|231|[Power of Two](src/231_PowerOfTwo/Solution.cpp)|[LeetCode](https://leetcode.com/problems/power-of-two)|
 |234|[Palindrome Linked List](src/234_PalindromeLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/palindrome-linked-list************)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](src/235_LowestCommonAncestorOfABinarySearchTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
 |236|[Lowest Common Ancestor of a Binary Tree](src/236_LowestCommonAncestorOfABinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
