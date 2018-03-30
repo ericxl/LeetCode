@@ -17,6 +17,7 @@
 |15|[3Sum](src/015_3Sum/Solution.cpp)|[LeetCode](https://leetcode.com/problems/3sum)|
 |16|[3Sum Closest](src/016_3SumClosest/Solution.cpp)|[LeetCode](https://leetcode.com/problems/3sum-closest)|
 |17|[Letter Combinations of a Phone Number](src/017_LetterCombinationsOfAPhoneNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|
+|19|[Remove Nth Node From End of List](src/019_RemoveNthNodeFromEndOfList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|
 |20|[Valid Parentheses](src/020_ValidParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-parentheses)|
 |21|[Merge Two Sorted Lists](src/021_MergeTwoSortedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|
 |22|[Generate Parentheses](src/022_GenerateParentheses/Solution.cpp)|[LeetCode](https://leetcode.com/problems/generate-parentheses)|
@@ -116,6 +117,7 @@
 |261|[Graph Valid Tree](src/261_GraphValidTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/graph-valid-tree)|
 |268|[Missing Number](src/268_MissingNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/missing-number)|
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
+|279|[Perfect Squares](src/279_PerfectSquares/Solution.cpp)|[LeetCode](https://leetcode.com/problems/perfect-squares)|
 |283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
 |287|[Find the Duplicate Number](src/287_FindTheDuplicateNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number)|

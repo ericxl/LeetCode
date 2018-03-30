@@ -21,10 +21,11 @@ bool isValidBST(TreeNode* root) {
         //
         root = root->right;
     }
+
     return true;
 
 }
 
 int main(){
-
+    isValidBST(nullptr);
 }
