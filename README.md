@@ -40,6 +40,7 @@
 |53|[Maximum Subarray](src/053_MaximumSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-subarray)|
 |54|[Spiral Matrix](src/054_SpiralMatrix/Solution.cpp)|[LeetCode](https://leetcode.com/problems/spiral-matrix)|
 |56|[Merge Intervals](src/056_MergeIntervals/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-intervals)|
+|57|[Insert Interval](src/057_InsertInterval/Solution.cpp)|[LeetCode](https://leetcode.com/problems/insert-interval)|
 |62|[Unique Paths](src/062_UniquePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/unique-paths)|
 |66|[Plus One](src/066_PlusOne/Solution.cpp)|[LeetCode](https://leetcode.com/problems/plus-one)|
 |67|[ADD Binary](src/067_AddBinary/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-binary)|
