@@ -81,6 +81,7 @@
 |155|[Min Stack](src/155_MinStack/Solution.cpp)|[LeetCode](https://leetcode.com/problems/min-stack)|
 |159|[Longest Substring with At Most Two Distinct Characters](src/159_LongestSubstringWithAtMostTwoDistinctCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|
 |160|[Intersection of Two Linked Lists](src/160_IntersectionOfTwoLinkedLists/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists)|
+|163|[Missing Ranges](src/163_MissingRanges/Solution.cpp)|[LeetCode](https://leetcode.com/problems/missing-ranges)|
 |164|[Maximum Gap](src/164_MaximumGap/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-gap)|
 |165|[Compare Version Numbers](src/165_CompareVersionNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/compare-version-numbers)|
 |167|[Two Sum II - Input array is sorted](src/167_TwoSumII-InputArrayIsSorted/Solution.cpp)|[LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|
