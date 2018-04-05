@@ -127,6 +127,7 @@
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
 |287|[Find the Duplicate Number](src/287_FindTheDuplicateNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number)|
 |292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
+|298|[Binary Tree Longest Consecutive Sequence](src/298_BinaryTreeLongestConsecutiveSequence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|
 |319|[Bulb Switcher](src/319_BulbSwitcher/Solution.cpp)|[LeetCode](https://leetcode.com/problems/bulb-switcher)|
 |326|[Power of Three](src/326_PowerOfThree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/power-of-three)|
 |328|[Odd Even Linked List](src/328_OddEvenLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/odd-even-linked-list)|
