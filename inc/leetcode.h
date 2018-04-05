@@ -61,4 +61,10 @@ struct Interval {
     Interval(int s, int e) : start(s), end(e) {}
 };
 
+struct UndirectedGraphNode {
+    int label;
+    vector<UndirectedGraphNode *> neighbors;
+    UndirectedGraphNode(int x) : label(x) {};
+};
+
 #endif //LEETCODE_LEETCODE_H
