@@ -48,6 +48,8 @@
 |70|[Climbing Stairs](src/070_ClimbingStairs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/climbing-stairs)|
 |72|[Edit Distance](src/072_EditDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/edit-distance)|
 |73|[Set Matrix Zeroes](src/073_SetMatrixZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/set-matrix-zeroes)|
+|76|[Minimum Window Substring](src/076_MinimumWindowSubstring/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-window-substring)|
+|79|[Word Search](src/079_WordSearch/Solution.cpp)|[LeetCode](https://leetcode.com/problems/word-search)|
 |84|[Largest Rectangle in Histogram](src/084_LargestRectangleInHistogram/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram)|
 |88|[Merge Sorted Array](src/088_MergeSortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-sorted-array)|
 |89|[Gray Code](src/089_GrayCode/Solution.cpp)|[LeetCode](https://leetcode.com/problems/gray-code)|
@@ -68,6 +70,7 @@
 |137|[Single Number II](src/137_SingleNumberII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number-ii)|
 |138|[Copy List with Random Pointer](src/138_CopyListWithRandomPointer/Solution.cpp)|[LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer)|
 |139|[Word Break](src/139_WordBreak/Solution.cpp)|[LeetCode](https://leetcode.com/https://leetcode.com/problems/word-break)|
+|140|[Word Break II](src/140_WordBreakII/Solution.cpp)|[LeetCode](https://leetcode.com/https://leetcode.com/problems/word-break-ii)|
 |141|[Linked List Cycle](src/141_LinkedListCycle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/linked-list-cycle)|
 |142|[Linked List Cycle II](src/142_LinkedListCycleII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/linked-list-cycle-ii)|
 |145|[Binary Tree Postorder Traversal](src/145_BinaryTreePostorderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal)|
@@ -125,9 +128,13 @@
 |258|[Add Digits](src/258_AddDigits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-digits)|
 |260|[Single Number III](src/260_SingleNumberIII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number-iii)|
 |261|[Graph Valid Tree](src/261_GraphValidTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/graph-valid-tree)|
+|266|[Palindrome Permutation](src/266_PalindromePermutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/palindrome-permutation)|
 |268|[Missing Number](src/268_MissingNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/missing-number)|
+|270|[Closest Binary Search Tree Value](src/270_ClosestBinarySearchTreeValue/Solution.cpp)|[LeetCode](https://leetcode.com/problems/closest-binary-search-tree-value)|
+|270|[Closest Binary Search Tree Value II](src/272_ClosestBinarySearchTreeValueII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
 |279|[Perfect Squares](src/279_PerfectSquares/Solution.cpp)|[LeetCode](https://leetcode.com/problems/perfect-squares)|
+|280|[Wiggle Sort](src/280_WiggleSort/Solution.cpp)|[LeetCode](https://leetcode.com/problems/wiggle-sort)|
 |283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
 |287|[Find the Duplicate Number](src/287_FindTheDuplicateNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number)|
