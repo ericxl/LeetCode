@@ -134,6 +134,7 @@
 |270|[Closest Binary Search Tree Value](src/270_ClosestBinarySearchTreeValue/Solution.cpp)|[LeetCode](https://leetcode.com/problems/closest-binary-search-tree-value)|
 |270|[Closest Binary Search Tree Value II](src/272_ClosestBinarySearchTreeValueII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
+|276|[Paint Fence](src/276_PaintFence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/paint-fence)|
 |279|[Perfect Squares](src/279_PerfectSquares/Solution.cpp)|[LeetCode](https://leetcode.com/problems/perfect-squares)|
 |280|[Wiggle Sort](src/280_WiggleSort/Solution.cpp)|[LeetCode](https://leetcode.com/problems/wiggle-sort)|
 |281|[Zigzag Iterator](src/281_ZigzagIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/zigzag-iterator)|
@@ -142,6 +143,7 @@
 |286|[Walls and Gates](src/286_WallsAndGates/Solution.cpp)|[LeetCode](https://leetcode.com/problems/walls-and-gates)|
 |287|[Find the Duplicate Number](src/287_FindTheDuplicateNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number)|
 |292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
+|293|[Flip Game](src/293_FlipGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/flip-game)|
 |298|[Binary Tree Longest Consecutive Sequence](src/298_BinaryTreeLongestConsecutiveSequence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|
 |319|[Bulb Switcher](src/319_BulbSwitcher/Solution.cpp)|[LeetCode](https://leetcode.com/problems/bulb-switcher)|
 |326|[Power of Three](src/326_PowerOfThree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/power-of-three)|
@@ -150,6 +152,8 @@
 |335|[Self Crossing](src/335_SelfCrossing/Solution.cpp)|[LeetCode](https://leetcode.com/problems/self-crossing)|
 |338|[Counting Bits](src/338_CountingBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/counting-bits)|
 |344|[Reverse String](src/344_ReverseString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-string)|
+|345|[Reverse Vowels of a String](src/345_ReverseVowelsOfAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)|
+|346|[Moving Average from Data Stream](src/346_MovingAverageFromDataStream/Solution.cpp)|[LeetCode](https://leetcode.com/problems/moving-average-from-data-stream)|
 |347|[Top K Frequent Elements](src/347_TopKFrequentElements/Solution.cpp)|[LeetCode](https://leetcode.com/problems/top-k-frequent-elements)|
 |349|[Intersection of Two Arrays](src/349_IntersectionOfTwoArrays/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-arrays)|
 |371|[Sum of Two Integers](src/371_SumOfTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sum-of-two-integers)|
@@ -157,6 +161,8 @@
 |384|[Shuffle an Array](src/384_ShuffleAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/shuffle-an-array)|
 |387|[First Unique Character in a String](src/387_FirstUniqueCharacterInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string)|
 |388|[Longest Absolute File Path](src/388_LongestAbsoluteFilePath/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-absolute-file-path)|
+|389|[Find the Difference](src/389_FindTheDifference/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-difference)|
+|401|[Binary Watch](src/401_BinaryWatch/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-watch)|
 |406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
 |412|[Fizz Buzz](src/412_FizzBuzz/Solution.cpp)|[LeetCode](https://leetcode.com/problems/fizz-buzz)|
 |419|[Battleships in a Board](src/419_BattleshipsInABoard/Solution.cpp)|[LeetCode](https://leetcode.com/problems/battleships-in-a-board)|
@@ -165,11 +171,16 @@
 |458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
 |461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
 |463|[Island Perimeter](src/463_IslandPerimeter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/island-perimeter)|
+|482|[License Key Formatting](src/482_LicenseKeyFormatting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/license-key-formatting)|
+|500|[Keyboard Row](src/500_KeyboardRow/Solution.cpp)|[LeetCode](https://leetcode.com/problems/keyboard-row)|
 |535|[Encode and Decode TinyURL](src/535_EncodeAndDecodeTinyURL/Solution.cpp)|[LeetCode](https://leetcode.com/problems/encode-and-decode-tinyurl)|
 |540|[Single Element in a Sorted Array](src/540_SingleElementInASortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array)|
+|543|[Diameter of Binary Tree](src/543_DiameterOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)|
 |561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
 |565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
+|654|[Maximum Binary Tree](src/654_MaximumBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-binary-tree)|
 |657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
+|734|[Sentence Similarity](src/734_SentenceSimilarity/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sentence-similarity)|
 |760|[Find Anagram Mappings](src/760_FindAnagramMappings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-anagram-mappings)|
 |771|[Jewels and Stones](src/771_JewelsAndStones/Solution.cpp)|[LeetCode](https://leetcode.com/problems/jewels-and-stones)|
