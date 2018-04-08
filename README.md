@@ -160,6 +160,7 @@
 |406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
 |412|[Fizz Buzz](src/412_FizzBuzz/Solution.cpp)|[LeetCode](https://leetcode.com/problems/fizz-buzz)|
 |419|[Battleships in a Board](src/419_BattleshipsInABoard/Solution.cpp)|[LeetCode](https://leetcode.com/problems/battleships-in-a-board)|
+|433|[Minimum Genetic Mutation](src/433_MinimumGeneticMutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-genetic-mutation)|
 |448|[Find All Numbers Disappeared in an Array](src/448_FindAllNumbersDisappearedInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|
 |458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
 |461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
