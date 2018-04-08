@@ -135,6 +135,7 @@
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
 |279|[Perfect Squares](src/279_PerfectSquares/Solution.cpp)|[LeetCode](https://leetcode.com/problems/perfect-squares)|
 |280|[Wiggle Sort](src/280_WiggleSort/Solution.cpp)|[LeetCode](https://leetcode.com/problems/wiggle-sort)|
+|281|[Zigzag Iterator](src/281_ZigzagIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/zigzag-iterator)|
 |283|[Move Zeroes](src/283_MoveZeroes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/move-zeroes)|
 |284|[Peeking Iterator](src/284_PeekingIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/peeking-iterator)|
 |287|[Find the Duplicate Number](src/287_FindTheDuplicateNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number)|
