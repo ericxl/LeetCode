@@ -156,16 +156,20 @@
 |346|[Moving Average from Data Stream](src/346_MovingAverageFromDataStream/Solution.cpp)|[LeetCode](https://leetcode.com/problems/moving-average-from-data-stream)|
 |347|[Top K Frequent Elements](src/347_TopKFrequentElements/Solution.cpp)|[LeetCode](https://leetcode.com/problems/top-k-frequent-elements)|
 |349|[Intersection of Two Arrays](src/349_IntersectionOfTwoArrays/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-arrays)|
+|359|[Logger Rate Limiter](src/359_LoggerRateLimiter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/logger-rate-limiter)|
 |371|[Sum of Two Integers](src/371_SumOfTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sum-of-two-integers)|
 |383|[Ransom Note](src/383_RansomNote/Solution.cpp)|[LeetCode](https://leetcode.com/problems/ransom-note)|
 |384|[Shuffle an Array](src/384_ShuffleAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/shuffle-an-array)|
 |387|[First Unique Character in a String](src/387_FirstUniqueCharacterInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string)|
 |388|[Longest Absolute File Path](src/388_LongestAbsoluteFilePath/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-absolute-file-path)|
 |389|[Find the Difference](src/389_FindTheDifference/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-difference)|
+|400|[Nth Digit](src/400_NthDigit/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nth-digit)|
 |401|[Binary Watch](src/401_BinaryWatch/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-watch)|
 |406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
 |412|[Fizz Buzz](src/412_FizzBuzz/Solution.cpp)|[LeetCode](https://leetcode.com/problems/fizz-buzz)|
+|415|[Add Strings](src/415_AddStrings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-strings)|
 |419|[Battleships in a Board](src/419_BattleshipsInABoard/Solution.cpp)|[LeetCode](https://leetcode.com/problems/battleships-in-a-board)|
+|422|[Valid Word Square](src/422_ValidWordSquare/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-word-square)|
 |433|[Minimum Genetic Mutation](src/433_MinimumGeneticMutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-genetic-mutation)|
 |448|[Find All Numbers Disappeared in an Array](src/448_FindAllNumbersDisappearedInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|
 |458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
@@ -178,6 +182,7 @@
 |543|[Diameter of Binary Tree](src/543_DiameterOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)|
 |561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
 |565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
+|604|[Design Compressed String Iterator](src/604_DesignCompressedStringIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/design-compressed-string-iterator)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
 |654|[Maximum Binary Tree](src/654_MaximumBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-binary-tree)|
 |657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
