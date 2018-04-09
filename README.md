@@ -173,6 +173,7 @@
 |419|[Battleships in a Board](src/419_BattleshipsInABoard/Solution.cpp)|[LeetCode](https://leetcode.com/problems/battleships-in-a-board)|
 |422|[Valid Word Square](src/422_ValidWordSquare/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-word-square)|
 |433|[Minimum Genetic Mutation](src/433_MinimumGeneticMutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-genetic-mutation)|
+|447|[Number of Boomerangs](src/447_NumberOfBoomerangs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/number-of-boomerangs)|
 |448|[Find All Numbers Disappeared in an Array](src/448_FindAllNumbersDisappearedInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|
 |458|[Poor Pigs](src/458_PoorPigs/Solution.cpp)|[LeetCode](https://leetcode.com/problems/poor-pigs)|
 |461|[Hamming Distance](src/461_HammingDistance/Solution.cpp)|[LeetCode](https://leetcode.com/problems/hamming-distance)|
@@ -188,6 +189,7 @@
 |581|[Shortest Unsorted Continuous Subarray](src/581_ShortestUnsortedContinuousSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|
 |604|[Design Compressed String Iterator](src/604_DesignCompressedStringIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/design-compressed-string-iterator)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
+|643|[Maximum Average Subarray I](src/643_MaximumAverageSubarrayI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-average-subarray-i)|
 |654|[Maximum Binary Tree](src/654_MaximumBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-binary-tree)|
 |657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
 |665|[Non-decreasing Array](src/665_Non-DecreasingArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/non-decreasing-array)|
