@@ -4,47 +4,38 @@
 
 #include <leetcode.h>
 
-class Solution {
-public:
-    void reverseWords(string &s) {
-        if (s.size() <2) return;
+void reverseword(string &s, int i, int j){
+    while(i<j){
+        char t=s[i];
+        s[i++]=s[j];
+        s[j--]=t;
+    }
+}
 
-        reverse(s, 0, s.size()-1);
+void reverseWords(string &s) {
 
-        int i = 0;
-        int j = 0;
+    int i=0, j=0;
+    int l=0;
+    int len=s.length();
+    int wordcount=0;
 
-        while (true){
-            if (s[j] == ' ') {
-                if (i != j){
-                    reverse(s, i, j-1);
-                }
+    while(true){
+        while(i<len && s[i] == ' ') i++;  // skip spaces in front of the word
+        if(i==len) break;
+        if(wordcount) s[j++]=' ';
+        l=j;
+        while(i<len && s[i] != ' ') {s[j]=s[i]; j++; i++;}
+        reverseword(s,l,j-1);                // reverse word in place
+        wordcount++;
 
-                i = j+1;
-            }
-            else if (j >=s.size()-1){
-                if (i != j){
-                    reverse(s, i, j);
-                }
-                break;
-            }
-            j++;
-
-        }
     }
 
-    void reverse(string &s, int i, int j){
-        for (int ctn = i; ctn < (j-i)/2 + 1 + i; ctn++){
-            swap(s[ctn], s[j-(ctn-i)]);
-        }
-    }
-};
+    s.resize(j);                           // resize result string
+    reverseword(s,0,j-1);                  // reverse whole string
+}
 
 int main()
 {
-
-    Solution s;
-
     string str = "  hao le     ";
-    s.reverseWords(str);
+    reverseWords(str);
 }
