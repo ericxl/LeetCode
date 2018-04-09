@@ -2,6 +2,8 @@
 // Created by Eric Liang on 4/7/18.
 //
 
+#include <leetcode.h>
+
 TreeNode* helper(vector<int>& nums, int low, int high) {
     if (low > high) { // Done
         return nullptr;

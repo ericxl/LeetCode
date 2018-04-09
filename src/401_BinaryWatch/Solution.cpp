@@ -6,12 +6,6 @@
 
 vector<int> hour = {1, 2, 4, 8}, minute = {1, 2, 4, 8, 16, 32};
 
-vector<string> readBinaryWatch(int num) {
-    vector<string> res;
-    helper(res, make_pair(0, 0), num, 0);
-    return res;
-}
-
 void helper(vector<string>& res, pair<int, int> time, int num, int start_point) {
     if (num == 0) {
         res.push_back(to_string(time.first) +  (time.second < 10 ?  ":0" : ":") + to_string(time.second));
@@ -27,6 +21,12 @@ void helper(vector<string>& res, pair<int, int> time, int num, int start_point) 
             if (time.second < 60)    helper(res, time, num - 1, i + 1);     // "minute" should be less than 60.
             time.second -= minute[i - hour.size()];
         }
+}
+
+vector<string> readBinaryWatch(int num) {
+    vector<string> res;
+    helper(res, make_pair(0, 0), num, 0);
+    return res;
 }
 
 int main (){

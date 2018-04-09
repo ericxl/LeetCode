@@ -158,6 +158,7 @@
 |349|[Intersection of Two Arrays](src/349_IntersectionOfTwoArrays/Solution.cpp)|[LeetCode](https://leetcode.com/problems/intersection-of-two-arrays)|
 |359|[Logger Rate Limiter](src/359_LoggerRateLimiter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/logger-rate-limiter)|
 |371|[Sum of Two Integers](src/371_SumOfTwoIntegers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sum-of-two-integers)|
+|374|[Guess Number Higher or Lower](src/374_GuessNumberHigherOrLower/Solution.cpp)|[LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower)|
 |383|[Ransom Note](src/383_RansomNote/Solution.cpp)|[LeetCode](https://leetcode.com/problems/ransom-note)|
 |384|[Shuffle an Array](src/384_ShuffleAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/shuffle-an-array)|
 |387|[First Unique Character in a String](src/387_FirstUniqueCharacterInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string)|
@@ -166,6 +167,7 @@
 |400|[Nth Digit](src/400_NthDigit/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nth-digit)|
 |401|[Binary Watch](src/401_BinaryWatch/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-watch)|
 |406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
+|409|[Longest Palindrome](src/409_LongestPalindrome/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-palindrome)|
 |412|[Fizz Buzz](src/412_FizzBuzz/Solution.cpp)|[LeetCode](https://leetcode.com/problems/fizz-buzz)|
 |415|[Add Strings](src/415_AddStrings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-strings)|
 |419|[Battleships in a Board](src/419_BattleshipsInABoard/Solution.cpp)|[LeetCode](https://leetcode.com/problems/battleships-in-a-board)|
@@ -177,15 +179,19 @@
 |463|[Island Perimeter](src/463_IslandPerimeter/Solution.cpp)|[LeetCode](https://leetcode.com/problems/island-perimeter)|
 |482|[License Key Formatting](src/482_LicenseKeyFormatting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/license-key-formatting)|
 |500|[Keyboard Row](src/500_KeyboardRow/Solution.cpp)|[LeetCode](https://leetcode.com/problems/keyboard-row)|
+|530|[Minimum Absolute Difference in BST](src/530_MinimumAbsoluteDifferenceInBST/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|
 |535|[Encode and Decode TinyURL](src/535_EncodeAndDecodeTinyURL/Solution.cpp)|[LeetCode](https://leetcode.com/problems/encode-and-decode-tinyurl)|
 |540|[Single Element in a Sorted Array](src/540_SingleElementInASortedArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array)|
 |543|[Diameter of Binary Tree](src/543_DiameterOfBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)|
 |561|[Array Partition I](src/561_ArrayPartitionI/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-partition-i)|
 |565|[Array Nesting](src/565_ArrayNesting/Solution.cpp)|[LeetCode](https://leetcode.com/problems/array-nesting)|
+|581|[Shortest Unsorted Continuous Subarray](src/581_ShortestUnsortedContinuousSubarray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|
 |604|[Design Compressed String Iterator](src/604_DesignCompressedStringIterator/Solution.cpp)|[LeetCode](https://leetcode.com/problems/design-compressed-string-iterator)|
 |617|[Merge Two Binary Trees](src/617_MergeTwoBinaryTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-two-binary-trees)|
 |654|[Maximum Binary Tree](src/654_MaximumBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-binary-tree)|
 |657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
+|665|[Non-decreasing Array](src/665_Non-DecreasingArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/non-decreasing-array)|
 |734|[Sentence Similarity](src/734_SentenceSimilarity/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sentence-similarity)|
 |760|[Find Anagram Mappings](src/760_FindAnagramMappings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-anagram-mappings)|
 |771|[Jewels and Stones](src/771_JewelsAndStones/Solution.cpp)|[LeetCode](https://leetcode.com/problems/jewels-and-stones)|
+|783|[Minimum Distance Between BST Nodes](src/783_MinimumDistanceBetweenBSTNodes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes)|
