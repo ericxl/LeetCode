@@ -104,6 +104,7 @@
 |202|[Happy Number](src/202_HappyNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/happy-number)|
 |206|[Reverse Linked List](src/206_ReverseLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-linked-list)|
 |207|[Course Schedule](src/207_CourseSchedule/Solution.cpp)|[LeetCode](https://leetcode.com/problems/course-schedule)|
+|208|[Implement Trie (Prefix Tree)](src/208_ImplementTrie/Solution.cpp)|[LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree)|
 |210|[Course Schedule II](src/210_CourseScheduleII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/course-schedule-ii)|
 |215|[Kth Largest Element in an Array](src/215_KthLargestElementInAnArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array)|
 |217|[Contains Duplicate](src/217_ContainsDuplicate/Solution.cpp)|[LeetCode](https://leetcode.com/problems/contains-duplicate)|
@@ -126,8 +127,13 @@
 |240|[Search a 2D Matrix II](src/240_SearchA2DMatrixII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii)|
 |242|[Valid Anagram](src/242_ValidAnagram/Solution.cpp)|[LeetCode](https://leetcode.com/problems/valid-anagram)|
 |246|[Strobogrammatic Number](src/246_StrobogrammaticNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/strobogrammatic-number)|
+|247|[Strobogrammatic Number II](src/247_StrobogrammaticNumberII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/strobogrammatic-number-ii)|
+|249|[Group Shifted Strings](src/249_GroupShiftedStrings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/group-shifted-strings)|
+|251|[Flatten 2D Vector](src/251_Flatten2DVector/Solution.cpp)|[LeetCode](https://leetcode.com/problems/flatten-2d-vector)|
+|253|[Meeting Rooms II](src/253_MeetingRoomsII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/meeting-rooms-ii)|
 |257|[Binary Tree Paths](src/257_BinaryTreePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-paths)|
 |258|[Add Digits](src/258_AddDigits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-digits)|
+|259|[3Sum Smaller](src/259_3SumSmaller/Solution.cpp)|[LeetCode](https://leetcode.com/problems/3sum-smaller)|
 |260|[Single Number III](src/260_SingleNumberIII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/single-number-iii)|
 |261|[Graph Valid Tree](src/261_GraphValidTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/graph-valid-tree)|
 |266|[Palindrome Permutation](src/266_PalindromePermutation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/palindrome-permutation)|
@@ -135,6 +141,7 @@
 |270|[Closest Binary Search Tree Value](src/270_ClosestBinarySearchTreeValue/Solution.cpp)|[LeetCode](https://leetcode.com/problems/closest-binary-search-tree-value)|
 |270|[Closest Binary Search Tree Value II](src/272_ClosestBinarySearchTreeValueII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|
 |273|[Integer to English Words](src/273_IntegerToEnglishWords/Solution.cpp)|[LeetCode](https://leetcode.com/problems/integer-to-english-words)|
+|274|[H-Index](src/274_H-Index/Solution.cpp)|[LeetCode](https://leetcode.com/problems/h-index)|
 |276|[Paint Fence](src/276_PaintFence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/paint-fence)|
 |279|[Perfect Squares](src/279_PerfectSquares/Solution.cpp)|[LeetCode](https://leetcode.com/problems/perfect-squares)|
 |280|[Wiggle Sort](src/280_WiggleSort/Solution.cpp)|[LeetCode](https://leetcode.com/problems/wiggle-sort)|
