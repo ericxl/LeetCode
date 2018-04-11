@@ -2,6 +2,8 @@
 // Created by Eric Liang on 4/10/18.
 //
 
+#include <leetcode.h>
+
 struct Node
 {
     unordered_set<int> neighbor;

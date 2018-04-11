@@ -166,7 +166,7 @@
 |333|[Largest BST Subtree](src/333_LargestBSTSubtree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-bst-subtree)|
 |335|[Self Crossing](src/335_SelfCrossing/Solution.cpp)|[LeetCode](https://leetcode.com/problems/self-crossing)|
 |338|[Counting Bits](src/338_CountingBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/counting-bits)|
-|340|[Longest Substring with At Most K Distinct Characters](src/340_LongestSubstringwithAtMostKDistinctCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|
+|340|[Longest Substring with At Most K Distinct Characters](src/340_LongestSubstringWithAtMostKDistinctCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|
 |344|[Reverse String](src/344_ReverseString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-string)|
 |345|[Reverse Vowels of a String](src/345_ReverseVowelsOfAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)|
 |346|[Moving Average from Data Stream](src/346_MovingAverageFromDataStream/Solution.cpp)|[LeetCode](https://leetcode.com/problems/moving-average-from-data-stream)|
@@ -181,6 +181,7 @@
 |388|[Longest Absolute File Path](src/388_LongestAbsoluteFilePath/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-absolute-file-path)|
 |389|[Find the Difference](src/389_FindTheDifference/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-difference)|
 |392|[Is Subsequence](src/392_IsSubsequence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/is-subsequence)|
+|392|[Decode String](src/394_DecodeString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/decode-string)|
 |400|[Nth Digit](src/400_NthDigit/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nth-digit)|
 |401|[Binary Watch](src/401_BinaryWatch/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-watch)|
 |406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
@@ -218,6 +219,7 @@
 |683|[K Empty Slots](src/683_KEmptySlots/Solution.cpp)|[LeetCode](https://leetcode.com/problems/k-empty-slots)|
 |728|[Self Dividing Numbers](src/728_SelfDividingNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/self-dividing-numbers)|
 |734|[Sentence Similarity](src/734_SentenceSimilarity/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sentence-similarity)|
+|737|[Sentence Similarity II](src/737_SentenceSimilarityII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sentence-similarity-ii)|
 |760|[Find Anagram Mappings](src/760_FindAnagramMappings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-anagram-mappings)|
 |771|[Jewels and Stones](src/771_JewelsAndStones/Solution.cpp)|[LeetCode](https://leetcode.com/problems/jewels-and-stones)|
 |783|[Minimum Distance Between BST Nodes](src/783_MinimumDistanceBetweenBSTNodes/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes)|

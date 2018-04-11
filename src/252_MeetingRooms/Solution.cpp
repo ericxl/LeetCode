@@ -19,3 +19,7 @@ bool canAttendMeetings(vector<Interval>& intervals) {
             return false;
     return true;
 }
+
+int main(){
+
+}
