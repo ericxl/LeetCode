@@ -42,6 +42,7 @@
 |56|[Merge Intervals](src/056_MergeIntervals/Solution.cpp)|[LeetCode](https://leetcode.com/problems/merge-intervals)|
 |57|[Insert Interval](src/057_InsertInterval/Solution.cpp)|[LeetCode](https://leetcode.com/problems/insert-interval)|
 |62|[Unique Paths](src/062_UniquePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/unique-paths)|
+|63|[Unique Paths II](src/063_UniquePathsII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/unique-paths-ii)|
 |66|[Plus One](src/066_PlusOne/Solution.cpp)|[LeetCode](https://leetcode.com/problems/plus-one)|
 |67|[ADD Binary](src/067_AddBinary/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-binary)|
 |69|[Sqrt(x)](src/069_Sqrt/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sqrtx)|
@@ -130,6 +131,7 @@
 |247|[Strobogrammatic Number II](src/247_StrobogrammaticNumberII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/strobogrammatic-number-ii)|
 |249|[Group Shifted Strings](src/249_GroupShiftedStrings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/group-shifted-strings)|
 |251|[Flatten 2D Vector](src/251_Flatten2DVector/Solution.cpp)|[LeetCode](https://leetcode.com/problems/flatten-2d-vector)|
+|252|[Meeting Rooms](src/252_MeetingRooms/Solution.cpp)|[LeetCode](https://leetcode.com/problems/meeting-rooms)|
 |253|[Meeting Rooms II](src/253_MeetingRoomsII/Solution.cpp)|[LeetCode](https://leetcode.com/problems/meeting-rooms-ii)|
 |257|[Binary Tree Paths](src/257_BinaryTreePaths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-paths)|
 |258|[Add Digits](src/258_AddDigits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/add-digits)|
@@ -153,7 +155,12 @@
 |292|[Nim Game](src/292_NimGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nim-game)|
 |293|[Flip Game](src/293_FlipGame/Solution.cpp)|[LeetCode](https://leetcode.com/problems/flip-game)|
 |298|[Binary Tree Longest Consecutive Sequence](src/298_BinaryTreeLongestConsecutiveSequence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|
+|310|[Minimum Height Trees](src/310_MinimumHeightTrees/Solution.cpp)|[LeetCode](https://leetcode.com/problems/minimum-height-trees)|
+|313|[Super Ugly Number](src/313_SuperUglyNumber/Solution.cpp)|[LeetCode](https://leetcode.com/problems/super-ugly-number)|
+|314|[Binary Tree Vertical Order Traversal](src/314_BinaryTreeVerticalOrderTraversal/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|
+|318|[Maximum Product of Word Lengths](src/318_MaximumProductOfWordLengths/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-product-of-word-lengths)|
 |319|[Bulb Switcher](src/319_BulbSwitcher/Solution.cpp)|[LeetCode](https://leetcode.com/problems/bulb-switcher)|
+|320|[Generalized Abbreviation](src/320_GeneralizedAbbreviation/Solution.cpp)|[LeetCode](https://leetcode.com/problems/generalized-abbreviation)|
 |326|[Power of Three](src/326_PowerOfThree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/power-of-three)|
 |328|[Odd Even Linked List](src/328_OddEvenLinkedList/Solution.cpp)|[LeetCode](https://leetcode.com/problems/odd-even-linked-list)|
 |333|[Largest BST Subtree](src/333_LargestBSTSubtree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-bst-subtree)|
@@ -172,6 +179,7 @@
 |387|[First Unique Character in a String](src/387_FirstUniqueCharacterInAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string)|
 |388|[Longest Absolute File Path](src/388_LongestAbsoluteFilePath/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-absolute-file-path)|
 |389|[Find the Difference](src/389_FindTheDifference/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-the-difference)|
+|392|[Is Subsequence](src/392_IsSubsequence/Solution.cpp)|[LeetCode](https://leetcode.com/problems/is-subsequence)|
 |400|[Nth Digit](src/400_NthDigit/Solution.cpp)|[LeetCode](https://leetcode.com/problems/nth-digit)|
 |401|[Binary Watch](src/401_BinaryWatch/Solution.cpp)|[LeetCode](https://leetcode.com/problems/binary-watch)|
 |406|[Queue Reconstruction by Height](src/406_QueueReconstructionByHeight/Solution.cpp)|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height)|
@@ -205,6 +213,8 @@
 |654|[Maximum Binary Tree](src/654_MaximumBinaryTree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/maximum-binary-tree)|
 |657|[Judge Route Circle](src/657_JudgeRouteCircle/Solution.cpp)|[LeetCode](https://leetcode.com/problems/judge-route-circle)|
 |665|[Non-decreasing Array](src/665_Non-DecreasingArray/Solution.cpp)|[LeetCode](https://leetcode.com/problems/non-decreasing-array)|
+|681|[Next Closest Time](src/681_NextClosestTime/Solution.cpp)|[LeetCode](https://leetcode.com/problems/next-closest-time)|
+|683|[K Empty Slots](src/683_KEmptySlots/Solution.cpp)|[LeetCode](https://leetcode.com/problems/k-empty-slots)|
 |728|[Self Dividing Numbers](src/728_SelfDividingNumbers/Solution.cpp)|[LeetCode](https://leetcode.com/problems/self-dividing-numbers)|
 |734|[Sentence Similarity](src/734_SentenceSimilarity/Solution.cpp)|[LeetCode](https://leetcode.com/problems/sentence-similarity)|
 |760|[Find Anagram Mappings](src/760_FindAnagramMappings/Solution.cpp)|[LeetCode](https://leetcode.com/problems/find-anagram-mappings)|
