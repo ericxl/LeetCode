@@ -166,6 +166,7 @@
 |333|[Largest BST Subtree](src/333_LargestBSTSubtree/Solution.cpp)|[LeetCode](https://leetcode.com/problems/largest-bst-subtree)|
 |335|[Self Crossing](src/335_SelfCrossing/Solution.cpp)|[LeetCode](https://leetcode.com/problems/self-crossing)|
 |338|[Counting Bits](src/338_CountingBits/Solution.cpp)|[LeetCode](https://leetcode.com/problems/counting-bits)|
+|340|[Longest Substring with At Most K Distinct Characters](src/340_LongestSubstringwithAtMostKDistinctCharacters/Solution.cpp)|[LeetCode](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|
 |344|[Reverse String](src/344_ReverseString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-string)|
 |345|[Reverse Vowels of a String](src/345_ReverseVowelsOfAString/Solution.cpp)|[LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)|
 |346|[Moving Average from Data Stream](src/346_MovingAverageFromDataStream/Solution.cpp)|[LeetCode](https://leetcode.com/problems/moving-average-from-data-stream)|
